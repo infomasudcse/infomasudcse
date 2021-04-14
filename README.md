@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Masud, Currently living at Dhaka, Bangladesh. I lived in Italy and Uk also. I have complited Undergraduate in Computer Science and Engineering from Dhaka. I have been working on web development for years. 
+- 👋 Hi, I’m Masud, full stack web developer from UK.  
 - 👀 I’m interested in Modern technologies...
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to php developer job in UK and collaborate on real laravel project ...
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to php developer job in UK and collaborate on real web project ...
 - 📫 email me to infomasud@gmail.com 
 
 <!---
