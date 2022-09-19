@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Masud, full stack web developer from UK.  
 - 👀 I’m interested in Modern technologies...
-- 🌱 My favourite tech line is php-mysql-laravel.
+- 🌱 My favourite tech line is php-mysql-laravel, wordpress..
 - 💞️ I’m looking to collaborate on real web project ...
 - 📫 email me at infomasud@gmail.com 
 
